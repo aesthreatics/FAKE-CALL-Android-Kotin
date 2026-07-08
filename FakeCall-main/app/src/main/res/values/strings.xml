@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FakeCall</string>
+    <string-array name="callLogTypes">
+        <item>Incoming</item>
+        <item>Outgoing</item>
+        <item>Missed</item>
+        <item>Rejected</item>
+        <item>Block</item>
+        <item>Voice</item>
+        <item>External</item>
+    </string-array>
+</resources>
